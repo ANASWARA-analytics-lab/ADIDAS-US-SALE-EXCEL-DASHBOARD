@@ -6,11 +6,11 @@ Interactive Excel dashboard analyzing Adidas US sales performance by month, regi
 This project is an interactive Excel dashboard that analyzes Adidas US sales performance across multiple dimensions. It consolidates raw transactional data into key KPIs such as total sales and total profit, then visualizes them using dynamic charts for months, regions, products, sales methods, and retailers. Slicers for month, year, region, and sales method allow users to filter the entire report, making it easy for business stakeholders to identify top‑performing areas, spot trends over time, and support data‑driven decisions on marketing, inventory, and channel strategy.
 
 # Business problems
----Lack of a single view of total sales and profit across the US, making it hard for managers to track overall performance. 
----Limited visibility into how different sales channels (in-store, online, outlet) contribute to revenue and profitability. 
----Difficulty identifying high- and low-performing regions, products, and retailers for targeted decision-making. 
----No easy way to monitor monthly and daily trends, causing delays in reacting to demand changes or seasonality. 
----Operational efficiency by product category is unclear, making it hard to optimize resources and reduce costs. 
+-Lack of a single view of total sales and profit across the US, making it hard for managers to track overall performance. 
+-Limited visibility into how different sales channels (in-store, online, outlet) contribute to revenue and profitability. 
+-Difficulty identifying high- and low-performing regions, products, and retailers for targeted decision-making. 
+-No easy way to monitor monthly and daily trends, causing delays in reacting to demand changes or seasonality. 
+-Operational efficiency by product category is unclear, making it hard to optimize resources and reduce costs. 
 
 # Business goals
 
